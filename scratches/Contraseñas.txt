@@ -1,3 +1,7 @@
 adminhuadmin
 luis
 kevun
+<<<<<<< HEAD
+=======
+Loria
+>>>>>>> master
